@@ -1,0 +1,1 @@
+kill @e[type=minecraft:sheep,nbt={Color:15b}]
